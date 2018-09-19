@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <BooleanPreference
+        android:defaultValue="@bool/mypreference_default"
+        android:key="learn"
+        android:summary="Fill Learn Form"
+        android:title="learn" />
+
+    <EditTextPreference
+        android:defaultValue="0"
+        android:key="counter"
+        android:summary="Every third time we ask user to rate us on app store."
+        android:title="counter" />
+
+    <BooleanPreference
+        android:defaultValue="@bool/mypreference_default"
+        android:key="dnd"
+        android:summary="User does not wish to see the rate us dialog"
+        android:title="dnd" />
+
+</PreferenceScreen>

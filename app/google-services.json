@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "829619646574",
+    "firebase_url": "https://sleep-with-wisdom-1bd91.firebaseio.com",
+    "project_id": "sleep-with-wisdom-1bd91",
+    "storage_bucket": "sleep-with-wisdom-1bd91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829619646574:android:244111e4baf85d3a",
+        "android_client_info": {
+          "package_name": "com.artofliving.volunteer.sleepwithwisdom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829619646574-h8386nhlpir100ojg4nf59ebtfb2tv1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWhoe-r7Kpzq376LiuVS9LVuYfT78Mnbs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

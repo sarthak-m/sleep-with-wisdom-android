@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">829619646574-h8386nhlpir100ojg4nf59ebtfb2tv1q.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://sleep-with-wisdom-1bd91.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">829619646574</string>
+    <string name="google_api_key" translatable="false">AIzaSyBWhoe-r7Kpzq376LiuVS9LVuYfT78Mnbs</string>
+    <string name="google_app_id" translatable="false">1:829619646574:android:244111e4baf85d3a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBWhoe-r7Kpzq376LiuVS9LVuYfT78Mnbs</string>
+    <string name="google_storage_bucket" translatable="false">sleep-with-wisdom-1bd91.appspot.com</string>
+</resources>

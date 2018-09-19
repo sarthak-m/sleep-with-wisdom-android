@@ -1,0 +1,617 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:2:1-148:12
+INJECTED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:2:1-148:12
+INJECTED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:2:1-148:12
+INJECTED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:2:1-148:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ceadbae4076b6f2ec33b03d5f73914b3/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-analytics:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.3.aar/f14f4db61ef0b74014e432a77b5cee30/AndroidManifest.xml:17:1-47:12
+MERGED from [com.koushikdutta.ion:ion:2.2.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/ion-2.2.1.aar/468626ace054be0aaacbcb869468f38b/AndroidManifest.xml:2:1-16:12
+MERGED from [com.google.firebase:firebase-core:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.3.aar/cc6881f4ed67490a03ef0a9209a77153/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/5273c8f16da681a062d5c464f4fe0be4/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/bd36288f3a267b878e878af094b368d4/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-16.0.3.aar/aad070243395226391c61d997069cbee/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-impl:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-16.0.3.aar/c8b0a7c1d5307efea86a1077466c69c7/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.1.aar/4ba940d97ffa124fac9d6c00aaa22d4a/AndroidManifest.xml:17:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/47bf739181caa9ef8ab1d14bdc7d1b06/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.1.aar/ca7c41c31a88c019457a9fb1316ade3b/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.1.aar/0e9ef387ae60e77826be046141d69019/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/481a4607e71b77b6654ff3443152bb0c/AndroidManifest.xml:17:1-65:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.0.aar/fdcc62b26c42d200a16d648c22ba1483/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/e5065f6a55514d35a8f8b2429448e641/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/76fcd60425e37b88207df12a519eab40/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/b911b789176a53ae7d521cd2cc85c95f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-common:16.0.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.1.aar/fd04dd787de19eba58a699c6546fb159/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/252af5f78f5b1d28011c53787dbffec5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.0.aar/ec3c6fc839772d4f588bbcf7f0dea3a5/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/1be55e2d855ad4d8d7510bffaf8f263f/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/a07d9a5d3a9f8cabad7f335574a6d1cb/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/2682f532747c8d525e9006780911e1da/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/5f651fc05c37407ef0a9f618c26c0937/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/82fca6ef515e29818ee8f12038a546db/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/b8c51b23bbd0038b3bd67e592fc064ef/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e9a1a4f6d6b21dfef59676277ae00fbd/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.2] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.2.aar/d38348c69d96189a028dfe905e2c69ef/AndroidManifest.xml:2:1-9:12
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/androidasync-2.2.1.aar/614735ded8da2d1b4e5d116b7e46938c/AndroidManifest.xml:2:1-16:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/056ebe4c0a9641b207daea86c21c834e/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:2:1-148:12
+INJECTED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:2:1-148:12
+INJECTED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:2:1-148:12
+	package
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:3:5-56
+		INJECTED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:4:5-29
+		INJECTED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:11:5-79
+MERGED from [com.google.android.gms:play-services-analytics:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.3.aar/f14f4db61ef0b74014e432a77b5cee30/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.3.aar/f14f4db61ef0b74014e432a77b5cee30/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-16.0.3.aar/c8b0a7c1d5307efea86a1077466c69c7/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-16.0.3.aar/c8b0a7c1d5307efea86a1077466c69c7/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.1.aar/4ba940d97ffa124fac9d6c00aaa22d4a/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.1.aar/4ba940d97ffa124fac9d6c00aaa22d4a/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/47bf739181caa9ef8ab1d14bdc7d1b06/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/47bf739181caa9ef8ab1d14bdc7d1b06/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.1.aar/0e9ef387ae60e77826be046141d69019/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.1.aar/0e9ef387ae60e77826be046141d69019/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/481a4607e71b77b6654ff3443152bb0c/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/481a4607e71b77b6654ff3443152bb0c/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:11:22-76
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:12:5-71
+	android:name
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:12:22-68
+uses-permission#android.permission.INTERNET
+ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:13:5-67
+MERGED from [com.google.android.gms:play-services-analytics:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.3.aar/f14f4db61ef0b74014e432a77b5cee30/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.3.aar/f14f4db61ef0b74014e432a77b5cee30/AndroidManifest.xml:23:5-67
+MERGED from [com.koushikdutta.ion:ion:2.2.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/ion-2.2.1.aar/468626ace054be0aaacbcb869468f38b/AndroidManifest.xml:11:5-67
+MERGED from [com.koushikdutta.ion:ion:2.2.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/ion-2.2.1.aar/468626ace054be0aaacbcb869468f38b/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-16.0.3.aar/c8b0a7c1d5307efea86a1077466c69c7/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-16.0.3.aar/c8b0a7c1d5307efea86a1077466c69c7/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.1.aar/4ba940d97ffa124fac9d6c00aaa22d4a/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.1.aar/4ba940d97ffa124fac9d6c00aaa22d4a/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/47bf739181caa9ef8ab1d14bdc7d1b06/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/47bf739181caa9ef8ab1d14bdc7d1b06/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.1.aar/0e9ef387ae60e77826be046141d69019/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.1.aar/0e9ef387ae60e77826be046141d69019/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/481a4607e71b77b6654ff3443152bb0c/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/481a4607e71b77b6654ff3443152bb0c/AndroidManifest.xml:23:5-67
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/androidasync-2.2.1.aar/614735ded8da2d1b4e5d116b7e46938c/AndroidManifest.xml:11:5-67
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/androidasync-2.2.1.aar/614735ded8da2d1b4e5d116b7e46938c/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:13:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:14:22-77
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:15:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:16:5-75
+	android:name
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:16:22-72
+uses-permission#android.permission.STORAGE
+ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:17:5-66
+	android:name
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:17:22-63
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:18:5-66
+	android:name
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:18:22-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:19:5-68
+MERGED from [com.google.android.gms:play-services-analytics:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.3.aar/f14f4db61ef0b74014e432a77b5cee30/AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.3.aar/f14f4db61ef0b74014e432a77b5cee30/AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics-impl:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-16.0.3.aar/c8b0a7c1d5307efea86a1077466c69c7/AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics-impl:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-16.0.3.aar/c8b0a7c1d5307efea86a1077466c69c7/AndroidManifest.xml:27:5-68
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.1.aar/4ba940d97ffa124fac9d6c00aaa22d4a/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.1.aar/4ba940d97ffa124fac9d6c00aaa22d4a/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/47bf739181caa9ef8ab1d14bdc7d1b06/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/47bf739181caa9ef8ab1d14bdc7d1b06/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.1.aar/0e9ef387ae60e77826be046141d69019/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.1.aar/0e9ef387ae60e77826be046141d69019/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/481a4607e71b77b6654ff3443152bb0c/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/481a4607e71b77b6654ff3443152bb0c/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:19:22-65
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:20:5-73
+	android:name
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:20:22-70
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:21:5-81
+	android:name
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:21:22-78
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:22:5-82
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/481a4607e71b77b6654ff3443152bb0c/AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/481a4607e71b77b6654ff3443152bb0c/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:22:22-79
+permission#com.artofliving.volunteer.sleepwithwisdom.permission.C2D_MESSAGE
+ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:24:5-26:47
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/481a4607e71b77b6654ff3443152bb0c/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:25:9-88
+uses-permission#com.artofliving.volunteer.sleepwithwisdom.permission.C2D_MESSAGE
+ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:28:5-104
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/481a4607e71b77b6654ff3443152bb0c/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:28:22-101
+application
+ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:30:5-146:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ceadbae4076b6f2ec33b03d5f73914b3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ceadbae4076b6f2ec33b03d5f73914b3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-analytics:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.3.aar/f14f4db61ef0b74014e432a77b5cee30/AndroidManifest.xml:29:5-45:19
+MERGED from [com.google.android.gms:play-services-analytics:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.3.aar/f14f4db61ef0b74014e432a77b5cee30/AndroidManifest.xml:29:5-45:19
+MERGED from [com.koushikdutta.ion:ion:2.2.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/ion-2.2.1.aar/468626ace054be0aaacbcb869468f38b/AndroidManifest.xml:13:5-14:19
+MERGED from [com.koushikdutta.ion:ion:2.2.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/ion-2.2.1.aar/468626ace054be0aaacbcb869468f38b/AndroidManifest.xml:13:5-14:19
+MERGED from [com.google.firebase:firebase-core:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.3.aar/cc6881f4ed67490a03ef0a9209a77153/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.3.aar/cc6881f4ed67490a03ef0a9209a77153/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/5273c8f16da681a062d5c464f4fe0be4/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/5273c8f16da681a062d5c464f4fe0be4/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/bd36288f3a267b878e878af094b368d4/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/bd36288f3a267b878e878af094b368d4/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-16.0.3.aar/aad070243395226391c61d997069cbee/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-16.0.3.aar/aad070243395226391c61d997069cbee/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-16.0.3.aar/c8b0a7c1d5307efea86a1077466c69c7/AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-16.0.3.aar/c8b0a7c1d5307efea86a1077466c69c7/AndroidManifest.xml:29:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.1.aar/4ba940d97ffa124fac9d6c00aaa22d4a/AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.1.aar/4ba940d97ffa124fac9d6c00aaa22d4a/AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/47bf739181caa9ef8ab1d14bdc7d1b06/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/47bf739181caa9ef8ab1d14bdc7d1b06/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.1.aar/ca7c41c31a88c019457a9fb1316ade3b/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.1.aar/ca7c41c31a88c019457a9fb1316ade3b/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.1.aar/0e9ef387ae60e77826be046141d69019/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.1.aar/0e9ef387ae60e77826be046141d69019/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/481a4607e71b77b6654ff3443152bb0c/AndroidManifest.xml:34:5-63:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/481a4607e71b77b6654ff3443152bb0c/AndroidManifest.xml:34:5-63:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.0.aar/fdcc62b26c42d200a16d648c22ba1483/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.0.aar/fdcc62b26c42d200a16d648c22ba1483/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/e5065f6a55514d35a8f8b2429448e641/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/e5065f6a55514d35a8f8b2429448e641/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/76fcd60425e37b88207df12a519eab40/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/76fcd60425e37b88207df12a519eab40/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/b911b789176a53ae7d521cd2cc85c95f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/b911b789176a53ae7d521cd2cc85c95f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common:16.0.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.1.aar/fd04dd787de19eba58a699c6546fb159/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.1.aar/fd04dd787de19eba58a699c6546fb159/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/252af5f78f5b1d28011c53787dbffec5/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/252af5f78f5b1d28011c53787dbffec5/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.0.aar/ec3c6fc839772d4f588bbcf7f0dea3a5/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.0.aar/ec3c6fc839772d4f588bbcf7f0dea3a5/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/1be55e2d855ad4d8d7510bffaf8f263f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/1be55e2d855ad4d8d7510bffaf8f263f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/a07d9a5d3a9f8cabad7f335574a6d1cb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/a07d9a5d3a9f8cabad7f335574a6d1cb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/2682f532747c8d525e9006780911e1da/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/2682f532747c8d525e9006780911e1da/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/5f651fc05c37407ef0a9f618c26c0937/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/5f651fc05c37407ef0a9f618c26c0937/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/82fca6ef515e29818ee8f12038a546db/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/82fca6ef515e29818ee8f12038a546db/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/b8c51b23bbd0038b3bd67e592fc064ef/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/b8c51b23bbd0038b3bd67e592fc064ef/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e9a1a4f6d6b21dfef59676277ae00fbd/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e9a1a4f6d6b21dfef59676277ae00fbd/AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.2] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.2.aar/d38348c69d96189a028dfe905e2c69ef/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.2] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.2.aar/d38348c69d96189a028dfe905e2c69ef/AndroidManifest.xml:7:5-20
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/androidasync-2.2.1.aar/614735ded8da2d1b4e5d116b7e46938c/AndroidManifest.xml:13:5-14:19
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/androidasync-2.2.1.aar/614735ded8da2d1b4e5d116b7e46938c/AndroidManifest.xml:13:5-14:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/056ebe4c0a9641b207daea86c21c834e/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/056ebe4c0a9641b207daea86c21c834e/AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:34:9-31
+	android:icon
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:33:9-45
+	android:allowBackup
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:32:9-35
+	android:theme
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:35:9-40
+	android:name
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:31:9-81
+receiver#com.google.android.gms.analytics.AnalyticsReceiver
+ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:44:9-50:20
+MERGED from [com.google.android.gms:play-services-analytics:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.3.aar/f14f4db61ef0b74014e432a77b5cee30/AndroidManifest.xml:30:9-34:20
+MERGED from [com.google.android.gms:play-services-analytics:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.3.aar/f14f4db61ef0b74014e432a77b5cee30/AndroidManifest.xml:30:9-34:20
+	android:enabled
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.3.aar/f14f4db61ef0b74014e432a77b5cee30/AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:45:13-78
+intent-filter#action:name:com.google.android.gms.analytics.ANALYTICS_DISPATCH
+ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:47:13-49:29
+action#com.google.android.gms.analytics.ANALYTICS_DISPATCH
+ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:48:17-94
+	android:name
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:48:25-91
+service#com.google.android.gms.analytics.AnalyticsService
+ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:52:9-55:40
+MERGED from [com.google.android.gms:play-services-analytics:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.3.aar/f14f4db61ef0b74014e432a77b5cee30/AndroidManifest.xml:36:9-39:40
+MERGED from [com.google.android.gms:play-services-analytics:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.3.aar/f14f4db61ef0b74014e432a77b5cee30/AndroidManifest.xml:36:9-39:40
+	android:enabled
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:54:13-35
+	android:exported
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:55:13-37
+	android:name
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:53:13-77
+receiver#com.google.android.gms.analytics.CampaignTrackingReceiver
+ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:61:9-67:20
+	android:exported
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:63:13-36
+	android:name
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:62:13-85
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:64:13-66:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:65:17-79
+	android:name
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:65:25-76
+service#com.google.android.gms.analytics.CampaignTrackingService
+ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:69:9-92
+	android:name
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:69:18-89
+meta-data#com.parse.push.notification_icon
+ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:71:9-73:56
+	android:resource
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:73:13-53
+	android:name
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:72:13-60
+meta-data#com.google.android.gms.version
+ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:74:9-76:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/1be55e2d855ad4d8d7510bffaf8f263f/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/1be55e2d855ad4d8d7510bffaf8f263f/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:76:13-66
+	android:name
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:75:13-58
+service#com.parse.PushService
+ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:78:9-57
+	android:name
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:78:18-54
+receiver#com.parse.ParseBroadcastReceiver
+ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:80:9-85:20
+	android:name
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:80:19-66
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.USER_PRESENT
+ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:81:13-84:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:82:17-79
+	android:name
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:82:25-76
+action#android.intent.action.USER_PRESENT
+ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:83:17-77
+	android:name
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:83:25-74
+receiver#com.parse.GcmBroadcastReceiver
+ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:86:9-95:20
+	android:permission
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:88:13-73
+	android:name
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:87:13-58
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+action:name:com.google.android.c2dm.intent.REGISTRATION+category:name:com.artofliving.volunteer.sleepwithwisdom
+ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:89:13-94:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:90:17-81
+	android:name
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:90:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:91:17-86
+	android:name
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:91:25-83
+category#com.artofliving.volunteer.sleepwithwisdom
+ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:93:17-86
+	android:name
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:93:27-83
+receiver#com.parse.ParsePushBroadcastReceiver
+ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:96:9-104:20
+	android:exported
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:98:13-37
+	android:name
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:97:13-64
+intent-filter#action:name:com.parse.push.intent.DELETE+action:name:com.parse.push.intent.OPEN+action:name:com.parse.push.intent.RECEIVE
+ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:99:13-103:29
+action#com.parse.push.intent.RECEIVE
+ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:100:17-72
+	android:name
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:100:25-69
+action#com.parse.push.intent.DELETE
+ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:101:17-71
+	android:name
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:101:25-68
+action#com.parse.push.intent.OPEN
+ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:102:17-69
+	android:name
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:102:25-66
+activity#com.artofliving.volunteer.sleepwithwisdom.SplashActivity
+ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:106:9-115:20
+	android:label
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:108:13-35
+	android:uiOptions
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:109:13-57
+	android:name
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:107:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:110:13-114:29
+action#android.intent.action.MAIN
+ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:111:17-69
+	android:name
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:111:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:113:17-77
+	android:name
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:113:27-74
+activity#com.artofliving.volunteer.sleepwithwisdom.HomeActivity
+ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:116:9-125:20
+	android:label
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:118:13-33
+	android:uiOptions
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:119:13-57
+	android:name
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:117:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT
+ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:120:13-124:29
+category#android.intent.category.DEFAULT
+ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:123:17-76
+	android:name
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:123:27-73
+activity#com.artofliving.volunteer.sleepwithwisdom.includes.Preferences
+ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:126:9-135:20
+	android:label
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:128:13-40
+	android:uiOptions
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:129:13-57
+	android:name
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:127:13-49
+activity#com.artofliving.volunteer.sleepwithwisdom.TipsFragmentActivity
+ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:136:9-145:20
+	android:label
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:138:13-33
+	android:uiOptions
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:139:13-57
+	android:name
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml:137:13-49
+uses-sdk
+INJECTED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ceadbae4076b6f2ec33b03d5f73914b3/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ceadbae4076b6f2ec33b03d5f73914b3/AndroidManifest.xml:21:5-23:78
+MERGED from [com.google.android.gms:play-services-analytics:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.3.aar/f14f4db61ef0b74014e432a77b5cee30/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.3.aar/f14f4db61ef0b74014e432a77b5cee30/AndroidManifest.xml:20:5-44
+MERGED from [com.koushikdutta.ion:ion:2.2.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/ion-2.2.1.aar/468626ace054be0aaacbcb869468f38b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.koushikdutta.ion:ion:2.2.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/ion-2.2.1.aar/468626ace054be0aaacbcb869468f38b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-core:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.3.aar/cc6881f4ed67490a03ef0a9209a77153/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.3.aar/cc6881f4ed67490a03ef0a9209a77153/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/5273c8f16da681a062d5c464f4fe0be4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/5273c8f16da681a062d5c464f4fe0be4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/bd36288f3a267b878e878af094b368d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/bd36288f3a267b878e878af094b368d4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-16.0.3.aar/aad070243395226391c61d997069cbee/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-16.0.3.aar/aad070243395226391c61d997069cbee/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-16.0.3.aar/c8b0a7c1d5307efea86a1077466c69c7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-16.0.3.aar/c8b0a7c1d5307efea86a1077466c69c7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.1.aar/4ba940d97ffa124fac9d6c00aaa22d4a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.1.aar/4ba940d97ffa124fac9d6c00aaa22d4a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/47bf739181caa9ef8ab1d14bdc7d1b06/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/47bf739181caa9ef8ab1d14bdc7d1b06/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.1.aar/ca7c41c31a88c019457a9fb1316ade3b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.1.aar/ca7c41c31a88c019457a9fb1316ade3b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.1.aar/0e9ef387ae60e77826be046141d69019/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.1.aar/0e9ef387ae60e77826be046141d69019/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/481a4607e71b77b6654ff3443152bb0c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/481a4607e71b77b6654ff3443152bb0c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.0.aar/fdcc62b26c42d200a16d648c22ba1483/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.0.aar/fdcc62b26c42d200a16d648c22ba1483/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/e5065f6a55514d35a8f8b2429448e641/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/e5065f6a55514d35a8f8b2429448e641/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/76fcd60425e37b88207df12a519eab40/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/76fcd60425e37b88207df12a519eab40/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/b911b789176a53ae7d521cd2cc85c95f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/b911b789176a53ae7d521cd2cc85c95f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.1.aar/fd04dd787de19eba58a699c6546fb159/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.1.aar/fd04dd787de19eba58a699c6546fb159/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/252af5f78f5b1d28011c53787dbffec5/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/252af5f78f5b1d28011c53787dbffec5/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.0.aar/ec3c6fc839772d4f588bbcf7f0dea3a5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.0.aar/ec3c6fc839772d4f588bbcf7f0dea3a5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/1be55e2d855ad4d8d7510bffaf8f263f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/1be55e2d855ad4d8d7510bffaf8f263f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/a07d9a5d3a9f8cabad7f335574a6d1cb/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/a07d9a5d3a9f8cabad7f335574a6d1cb/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/2682f532747c8d525e9006780911e1da/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/2682f532747c8d525e9006780911e1da/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/5f651fc05c37407ef0a9f618c26c0937/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/5f651fc05c37407ef0a9f618c26c0937/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/82fca6ef515e29818ee8f12038a546db/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/82fca6ef515e29818ee8f12038a546db/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/b8c51b23bbd0038b3bd67e592fc064ef/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/b8c51b23bbd0038b3bd67e592fc064ef/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e9a1a4f6d6b21dfef59676277ae00fbd/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e9a1a4f6d6b21dfef59676277ae00fbd/AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.2] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.2.aar/d38348c69d96189a028dfe905e2c69ef/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.2] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.2.aar/d38348c69d96189a028dfe905e2c69ef/AndroidManifest.xml:5:5-44
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/androidasync-2.2.1.aar/614735ded8da2d1b4e5d116b7e46938c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/androidasync-2.2.1.aar/614735ded8da2d1b4e5d116b7e46938c/AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/056ebe4c0a9641b207daea86c21c834e/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/056ebe4c0a9641b207daea86c21c834e/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ceadbae4076b6f2ec33b03d5f73914b3/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ceadbae4076b6f2ec33b03d5f73914b3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/5273c8f16da681a062d5c464f4fe0be4/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/5273c8f16da681a062d5c464f4fe0be4/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/bd36288f3a267b878e878af094b368d4/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/bd36288f3a267b878e878af094b368d4/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/a07d9a5d3a9f8cabad7f335574a6d1cb/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/a07d9a5d3a9f8cabad7f335574a6d1cb/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/2682f532747c8d525e9006780911e1da/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/2682f532747c8d525e9006780911e1da/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/5f651fc05c37407ef0a9f618c26c0937/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/5f651fc05c37407ef0a9f618c26c0937/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/82fca6ef515e29818ee8f12038a546db/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/82fca6ef515e29818ee8f12038a546db/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/b8c51b23bbd0038b3bd67e592fc064ef/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/b8c51b23bbd0038b3bd67e592fc064ef/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e9a1a4f6d6b21dfef59676277ae00fbd/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e9a1a4f6d6b21dfef59676277ae00fbd/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ceadbae4076b6f2ec33b03d5f73914b3/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ceadbae4076b6f2ec33b03d5f73914b3/AndroidManifest.xml:27:13-51
+service#com.google.android.gms.analytics.AnalyticsJobService
+ADDED from [com.google.android.gms:play-services-analytics:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.3.aar/f14f4db61ef0b74014e432a77b5cee30/AndroidManifest.xml:40:9-44:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.3.aar/f14f4db61ef0b74014e432a77b5cee30/AndroidManifest.xml:42:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.3.aar/f14f4db61ef0b74014e432a77b5cee30/AndroidManifest.xml:43:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-analytics:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.3.aar/f14f4db61ef0b74014e432a77b5cee30/AndroidManifest.xml:44:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-analytics-16.0.3.aar/f14f4db61ef0b74014e432a77b5cee30/AndroidManifest.xml:41:13-80
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.1.aar/4ba940d97ffa124fac9d6c00aaa22d4a/AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/481a4607e71b77b6654ff3443152bb0c/AndroidManifest.xml:35:9-39:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/481a4607e71b77b6654ff3443152bb0c/AndroidManifest.xml:35:9-39:19
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.1.aar/4ba940d97ffa124fac9d6c00aaa22d4a/AndroidManifest.xml:27:18-89
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.1.aar/4ba940d97ffa124fac9d6c00aaa22d4a/AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.1.aar/4ba940d97ffa124fac9d6c00aaa22d4a/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.1.aar/4ba940d97ffa124fac9d6c00aaa22d4a/AndroidManifest.xml:29:17-139
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/47bf739181caa9ef8ab1d14bdc7d1b06/AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.1.aar/0e9ef387ae60e77826be046141d69019/AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.1.aar/0e9ef387ae60e77826be046141d69019/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/47bf739181caa9ef8ab1d14bdc7d1b06/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/47bf739181caa9ef8ab1d14bdc7d1b06/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/47bf739181caa9ef8ab1d14bdc7d1b06/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/47bf739181caa9ef8ab1d14bdc7d1b06/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/47bf739181caa9ef8ab1d14bdc7d1b06/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/47bf739181caa9ef8ab1d14bdc7d1b06/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.1.aar/0e9ef387ae60e77826be046141d69019/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.1.aar/0e9ef387ae60e77826be046141d69019/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/47bf739181caa9ef8ab1d14bdc7d1b06/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/47bf739181caa9ef8ab1d14bdc7d1b06/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/47bf739181caa9ef8ab1d14bdc7d1b06/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/47bf739181caa9ef8ab1d14bdc7d1b06/AndroidManifest.xml:35:13-100
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/47bf739181caa9ef8ab1d14bdc7d1b06/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/47bf739181caa9ef8ab1d14bdc7d1b06/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/47bf739181caa9ef8ab1d14bdc7d1b06/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/47bf739181caa9ef8ab1d14bdc7d1b06/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/47bf739181caa9ef8ab1d14bdc7d1b06/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/47bf739181caa9ef8ab1d14bdc7d1b06/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/47bf739181caa9ef8ab1d14bdc7d1b06/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/47bf739181caa9ef8ab1d14bdc7d1b06/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.3] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.3.aar/47bf739181caa9ef8ab1d14bdc7d1b06/AndroidManifest.xml:49:13-87
+permission#${applicationId}.permission.C2D_MESSAGE
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/481a4607e71b77b6654ff3443152bb0c/AndroidManifest.xml:28:5-30:47
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+MERGED from [com.google.firebase:firebase-iid:16.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/481a4607e71b77b6654ff3443152bb0c/AndroidManifest.xml:32:5-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/481a4607e71b77b6654ff3443152bb0c/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/481a4607e71b77b6654ff3443152bb0c/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/481a4607e71b77b6654ff3443152bb0c/AndroidManifest.xml:37:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/481a4607e71b77b6654ff3443152bb0c/AndroidManifest.xml:41:9-50:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/481a4607e71b77b6654ff3443152bb0c/AndroidManifest.xml:43:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/481a4607e71b77b6654ff3443152bb0c/AndroidManifest.xml:44:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/481a4607e71b77b6654ff3443152bb0c/AndroidManifest.xml:42:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/481a4607e71b77b6654ff3443152bb0c/AndroidManifest.xml:45:13-49:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.artofliving.volunteer.sleepwithwisdom
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/481a4607e71b77b6654ff3443152bb0c/AndroidManifest.xml:45:13-49:29
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/481a4607e71b77b6654ff3443152bb0c/AndroidManifest.xml:48:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/481a4607e71b77b6654ff3443152bb0c/AndroidManifest.xml:48:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/481a4607e71b77b6654ff3443152bb0c/AndroidManifest.xml:56:9-62:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/481a4607e71b77b6654ff3443152bb0c/AndroidManifest.xml:58:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/481a4607e71b77b6654ff3443152bb0c/AndroidManifest.xml:57:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/481a4607e71b77b6654ff3443152bb0c/AndroidManifest.xml:59:13-61:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/481a4607e71b77b6654ff3443152bb0c/AndroidManifest.xml:59:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/481a4607e71b77b6654ff3443152bb0c/AndroidManifest.xml:60:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/481a4607e71b77b6654ff3443152bb0c/AndroidManifest.xml:60:25-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/e5065f6a55514d35a8f8b2429448e641/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/e5065f6a55514d35a8f8b2429448e641/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/e5065f6a55514d35a8f8b2429448e641/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/e5065f6a55514d35a8f8b2429448e641/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.1.aar/fd04dd787de19eba58a699c6546fb159/AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.1.aar/fd04dd787de19eba58a699c6546fb159/AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.1.aar/fd04dd787de19eba58a699c6546fb159/AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.1.aar/fd04dd787de19eba58a699c6546fb159/AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.1] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.1.aar/fd04dd787de19eba58a699c6546fb159/AndroidManifest.xml:11:13-77
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/056ebe4c0a9641b207daea86c21c834e/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/056ebe4c0a9641b207daea86c21c834e/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/sarthakmajithia/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/056ebe4c0a9641b207daea86c21c834e/AndroidManifest.xml:26:13-58

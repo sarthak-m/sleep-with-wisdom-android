@@ -1,0 +1,5 @@
+<resources>
+
+    <bool name="mypreference_default">true</bool>
+
+</resources>

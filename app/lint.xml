@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lint>
+    <issue id="ClickableViewAccessibility">
+        <ignore path="src/com/artofliving/volunteer/sleepwithwisdom/FragmentTips.java" />
+    </issue>
+    <issue id="NewApi" severity="ignore" />
+    <issue id="ShowToast" severity="ignore" />
+</lint>

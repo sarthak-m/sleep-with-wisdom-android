@@ -1,0 +1,4 @@
+#Wed Sep 19 11:22:08 CDT 2018
+base.0=/Users/sarthakmajithia/Documents/work/SleepWithWisdom/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
